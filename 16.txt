@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+	int N;
+	scanf ("%d",&N);
+	if(N==40)
+	{
+		printf("Roll no. 40 is present");
+	}
+	return 0;
+}
